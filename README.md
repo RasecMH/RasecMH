@@ -1,8 +1,8 @@
 ## Olá, me chamo Cesar!
-<div>
+<div align="center">
   <a href="https://github.com/RasecMH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasecmh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasecmh&layout=compact&langs_count=3&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rasecmh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasecmh&layout=compact&langs_count=3&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
