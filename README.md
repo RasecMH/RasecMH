@@ -6,7 +6,7 @@ Devido minha criatividade e paixão em resolver problemas, passei 10 anos trabal
 
 Tenho experiência com:
 
-Node.js | Express | API’s RESTful | Sequelize | Banco de dados relacionais(mySQL) e não-relacionais(MongoDB) | React(Redux e Context API) | Docker | HTML | CSS | TailwindCss
+Node.js | Express | API’s RESTful | Sequelize | Banco de dados relacionais(mySQL) | React(Redux e Context API) | Docker | HTML | CSS | TailwindCss
 
 Tenho Conhecimentos em:
 
