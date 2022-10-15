@@ -6,7 +6,7 @@ Devido minha criatividade e paixão em resolver problemas, passei 10 anos trabal
 
 Tenho experiência com:
 
-Node.js | Express | API’s RESTful | Sequelize | Banco de dados relacionais(mySQL) | React(Redux e Context API) | Docker | HTML | CSS | TailwindCss
+React(Redux e Context API) | HTML | CSS | TailwindCss | Node.js | Express | API’s RESTful | Sequelize | Banco de dados relacionais(mySQL) | Docker
 
 Tenho Conhecimentos em:
 
@@ -21,8 +21,31 @@ Procuro sempre por projetos que me proporciona desafios e novos aprendizados, po
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cesar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cesar-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cesar-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Cesar-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Cesar-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Cesar-mySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Cesar-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
+  <img align="center" alt="Cesar-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Cesar-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Cesar-Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
+  <br/><br/>
+  <img align="center" alt="Cesar-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+  <img align="center" alt="Cesar-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cesar-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Cesar-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Cesar-Lint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Cesar-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cesar-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  
+  <img align="center" alt="Cesar-AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Cesar-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+ 
 </div>
   
   ##
