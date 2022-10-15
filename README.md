@@ -1,6 +1,6 @@
 ## Olá,
 
-Eu me chamo Cesar Holanda, atualmente sou Desenvolvedor FullStack 🧑🏻‍💻, cursei bacharelado em Design 🎨, tenho experiência como Diagramador de Livros 📚 e Produtor de Eventos 👨🏻‍🎤, Speedrunner nas horas vagas 🎮 e pai do Loki 🐈
+Eu me chamo Cesar Holanda, atualmente sou Desenvolvedor Full Stack 🧑🏻‍💻, cursei bacharelado em Design 🎨, tenho experiência como Diagramador de Livros 📚 e Produtor de Eventos 👨🏻‍🎤, Speedrunner nas horas vagas 🎮 e pai do Loki 🐈
 
 Devido minha criatividade e paixão em resolver problemas, passei 10 anos trabalhando na mercado editorial e paralelamente 8 anos na área de eventos onde tive oportunidade de exercer cargos de gestão de pessoas e projetos para grande público. Após resgatar um antigo hobby de desenvolver jogos e sentir a necessidade de buscar novos desafios, fiz transição de carreira para a área de tecnologia e estou estudando Desenvolvimento Web na Trybe, onde aprendi Front-end e Back-end com JavaScript, Lógica de Programação, Metodologias Ágeis e a desenvolver SoftSkills.
 
