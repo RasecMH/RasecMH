@@ -16,7 +16,7 @@ Procuro sempre por projetos que me proporciona desafios e novos aprendizados, po
 
 <div align="center">
   <a href="https://github.com/RasecMH">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rasecmh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rasecmh&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasecmh&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
