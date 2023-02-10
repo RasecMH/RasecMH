@@ -1,4 +1,4 @@
-## Olá,
+<img align="center" alt="Header" src="https://raw.githubusercontent.com/RasecMH/RasecMH/main/capagithub.gif"/>
 
 Eu me chamo Cesar Holanda, atualmente sou Desenvolvedor Full Stack 🧑🏻‍💻, cursei bacharelado em Design 🎨, tenho experiência como Diagramador de Livros 📚 e Produtor de Eventos 👨🏻‍🎤, Speedrunner nas horas vagas 🎮 e pai do Loki 🐈
 
