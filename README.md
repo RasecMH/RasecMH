@@ -10,7 +10,7 @@ React(Redux e Context API) | HTML | CSS | TailwindCss | Node.js | Express | API�
 
 Tenho Conhecimentos em:
 
-Java | C# | Unity | GameMaker | Programação Orientada a Objetos | Testes automatizados | Pacote Adobe
+Java | C++ | Unreal Engine | GameMaker | Programação Orientada a Objetos | Testes automatizados | Pacote Adobe
 
 Procuro sempre por projetos que me proporciona desafios e novos aprendizados, pois meu objetivo é me tornar um profissional cada vez mais completo e versátil.
 
